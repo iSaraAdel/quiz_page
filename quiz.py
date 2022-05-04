@@ -1,5 +1,8 @@
 from Question import Question
 
+#Welcome the user
+print("Welcome to the Simple Quiz!")
+
 print('choose the correct terminology for the definition')
 
 question_prompts =[
